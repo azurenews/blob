@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azurenews.github.io/blob/sitemap.xml
